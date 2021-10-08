@@ -2,10 +2,10 @@
 title: Lerntagebuch BAIN
 ---
 
-## Willkommen zu meinem Lerntagebuch :)
+## Willkommen auf meiner Seite :)
 
 Hello hello schön hast du meinen Blog entdeckt :D 📝
-Ich studiere Informationswissenschaften an der FHGR und hier gehts ums Thema **Bibliotheks- und Archivinformatik** (abgekürzt BAIN). In diesem Lerntagebuch beschreibe ich meine Erfahrungen und Erkenntnisse, welche ich in diesem Modul gesammelt habe. Zu jeder Lerneinheit und zu Übungen wird es einen Beitrag geben. Viel Spass beim Lesen!👀
+Ich studiere Informationswissenschaften an der FHGR und hier gehts ums Thema **Bibliotheks- und Archivinformatik** (abgekürzt BAIN). In diesem Lerntagebuch beschreibe ich meine Erfahrungen und Erkenntnisse, welche ich in diesem Modul gesammelt habe. Zu jeder Lerneinheit und zu verschiedenen Übungen wird es einen Beitrag geben. Viel Spass beim Lesen!👀
 
 
 #### Folgende Themen werden angeschaut:
