@@ -2,6 +2,8 @@
 title: Lerntagebuch BAIN
 ---
 
+- - - -
+  
 ## Willkommen auf meiner Seite :)
 
 Hello hello schön hast du meinen Blog entdeckt :D 📝
@@ -9,7 +11,7 @@ Ich studiere Informationswissenschaften an der FHGR und hier gehts ums Thema **B
 Viel Spass beim Lesen!👀
 
 - - - -
-
+  
 #### Folgende Themen werden angeschaut:
 
 Nummer: | Themen:
