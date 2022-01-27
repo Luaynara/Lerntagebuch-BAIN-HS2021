@@ -3,9 +3,9 @@ title: "Einführungsartikel: Wer bin ich und wo bin ich gestartet?"
 date: 2021-09-15
 ---
 
-Hallo, ich bin Jessy. Ich mache Teilzeit das Bachelor Studium «Information Science» an der Fachhochschule Graubünden (FHGR) in Zürich und bin zurzeit im 7. Semester. Im nachfolgenden Abschnitt werde ich ein paar Infos über mich, meine persönlichen Erfahrungen und Vorkenntnisse zum Thema Bibliotheks- und Archivinformatik mit euch teilen. :) 
+Hallo, ich bin Jessy. Ich mache teilzeit das Bachelor Studium «Information Science» an der Fachhochschule Graubünden (FHGR) in Zürich und bin zurzeit im 7. Semester. Im nachfolgenden Abschnitt werde ich ein paar Infos über mich, meine persönlichen Erfahrungen und Vorkenntnisse zum Thema Bibliotheks- und Archivinformatik mit euch teilen. :) 
 
-**Beruf:** Ich arbeite aktuell Teilzeit neben dem Studium in einer öffentlichen Bibliothek. Hauptsächlich bin ich im Thekendienst tätig, habe also viel in der Benutzung, Kunden und mit Recherchen zu tun. Eine Zeit lang habe ich auch Standing Order Bücher inventarisiert und das Bibliotheks- & Thekenmaterial verwaltet. Neu bin ich im Team Kids & Teens und betreue neben den Fremdsprachigen Bibliomedia Büchern auch Kinderveranstaltungen.
+**Beruf:** Ich arbeite aktuell teilzeit neben dem Studium in einer öffentlichen Bibliothek. Hauptsächlich bin ich im Thekendienst tätig, habe also viel in der Benutzung, Kunden und mit Recherchen zu tun. Eine Zeit lang habe ich auch Standing Order Bücher inventarisiert und das Bibliotheks- & Thekenmaterial verwaltet. Neu bin ich im Team Kids & Teens und betreue neben den Fremdsprachigen Bibliomedia Büchern auch Kinderveranstaltungen.
 
 Ich komme ursprünglich aus einem anderen Bereich als den der Informationswissenschaften. Ich habe eine Lehre als Fachfrau Betreuung (FaBe) Fachrichtung Kind in einem städtischen Hort gemacht. Dort habe ich sehr viel über Menschen und deren Entwicklung gelernt, was dazu führte das ich mir sehr mit Psychologie beschäftigte. Auch wenn ich heute nicht mehr direkt in diesem Beruf arbeite, habe ich auch in der Bibliothek viel mit Kindern und Erwachsenen zu tun. In dieser Position ist es jedoch keine Pädagogische Rolle mehr, sondern mehr eine beratende.
 
