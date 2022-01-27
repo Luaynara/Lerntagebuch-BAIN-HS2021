@@ -13,12 +13,12 @@ Viel Spass beim Lesen!👀
   
 ### Folgende Themen werden angeschaut:  
 
-Nummer: | Themen:
+| Themen:
 | :-- | :-- |
-1.| Technische Grundlagen
-2.| Funktion und Aufbau von Bibliothekssystemen (2x)
-3.| Funktion und Aufbau von Archivsystemen
-4.| Repository-Software für Publikationen und Forschungsdaten
-5.| Metadaten modellieren und Schnittstellen nutzen (2x)
-6.| Suchmaschinen und Discovery-Systeme
-7.| Linked Data
+| Technische Grundlagen
+| Funktion und Aufbau von Bibliothekssystemen (2x)
+| Funktion und Aufbau von Archivsystemen
+| Repository-Software für Publikationen und Forschungsdaten
+| Metadaten modellieren und Schnittstellen nutzen (2x)
+| Suchmaschinen und Discovery-Systeme
+| Linked Data
