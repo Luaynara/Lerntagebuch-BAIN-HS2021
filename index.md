@@ -16,7 +16,7 @@ Viel Spass beim Lesen!👀
 
  Themen:| Nummer der Vorlesung:
  | :-- | :-- |
- Technische Grundlagen |      1
+ Technische Grundlagen | 1
  Funktion und Aufbau von Bibliothekssystemen (2x) | 2-3
  Funktion und Aufbau von Archivsystemen | 4
  Repository-Software für Publikationen und Forschungsdaten | 5
