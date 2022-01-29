@@ -14,12 +14,12 @@ Viel Spass beim Lesen!👀
   
 ### Folgende Themen werden angeschaut:  
 
- Nummer der Vorlesung:| Themen:
+ Themen:| Nummer der Vorlesung:
  | :-- | :-- |
- 1 | Technische Grundlagen
- 2-3 | Funktion und Aufbau von Bibliothekssystemen (2x)
- 4 | Funktion und Aufbau von Archivsystemen
- 5 | Repository-Software für Publikationen und Forschungsdaten
- 6-7 | Metadaten modellieren und Schnittstellen nutzen (2x)
- 8 | Suchmaschinen und Discovery-Systeme
- 9 | Linked Data
+ Technische Grundlagen | 1
+ Funktion und Aufbau von Bibliothekssystemen (2x) | 2-3
+ Funktion und Aufbau von Archivsystemen | 4
+ Repository-Software für Publikationen und Forschungsdaten | 5
+ Metadaten modellieren und Schnittstellen nutzen (2x) | 6-7
+ Suchmaschinen und Discovery-Systeme | 8
+ Linked Data | 9
