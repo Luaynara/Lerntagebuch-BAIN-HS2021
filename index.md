@@ -13,7 +13,7 @@ Viel Spass beim Lesen!👀
   
 ### Folgende Themen werden angeschaut:  
 
- Vorlesungsnummer:| Themen:
+ Nummer der Vorlesung:| Themen:
  | :-- | :-- |
  1 | Technische Grundlagen
  2-3 | Funktion und Aufbau von Bibliothekssystemen (2x)
