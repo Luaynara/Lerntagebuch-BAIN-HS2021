@@ -17,9 +17,9 @@ Viel Spass beim Lesen!👀
  Nummer der Vorlesung:| Themen:
  | :-- | :-- |
  1 | Technische Grundlagen
- 2 - 3 | Funktion und Aufbau von Bibliothekssystemen (2x)
+ 2&3 | Funktion und Aufbau von Bibliothekssystemen (2x)
  4 | Funktion und Aufbau von Archivsystemen
  5 | Repository-Software für Publikationen und Forschungsdaten
- 6 - 7 | Metadaten modellieren und Schnittstellen nutzen (2x)
+ 6&7 | Metadaten modellieren und Schnittstellen nutzen (2x)
  8 | Suchmaschinen und Discovery-Systeme
  9 | Linked Data
