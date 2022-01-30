@@ -14,4 +14,5 @@ Allgemein fand ich es eigentlich gut dass wir viele praktische Übungen machen k
 Ich fand diese Art von Leistungsnachweis ganz interessant, da ich dies vorher noch nie gemacht habe. Durch das selber nochmals Zusammenfassen und definieren der Begriffe viel es mir dann auch einfacher am Schluss den Zusammenhang zu sehen. Ich habe viel über die praktische Anwendung unterschiedlicher Software gelernt, wie auch Fachwissen angeeignet. Was ich nicht gelernt habe ist schwierig zu sagen, teilweise hätte ich gerne mehr Zeit gehabt, um mich mit der Theorie zu vertiefen, sicherlich habe ich noch nicht *alles* zu 100% verstanden. Aber am Schluss hat alles irgendwie Sinn gemacht und das fand ich schön, da ich das nicht in jedem Fach bisher hatte. Am besten gefallen hat mir das Simulieren des Ausleihen eines Buches im Bibliothekssystem, da es mich sehr an meine Arbeit in der Bibliothek an der Theke erinnert hat. Auch wenn ich nicht vor habe im Bereich Informatik zu Arbeiten ist es sicher von Vorteil mehr Hintergrundwissen zu haben.
 
 Vielen Dank für die spannenden Vorlesungen und Einblicke und liebe Grüsse!
+
 Jessy :)
