@@ -3,11 +3,10 @@ title: "Abschlussartikel: Was habe ich (nicht) gelernt?"
 date: 2022-01-15
 ---
 
-Nun geht ein weiters Semester zu Ende, dies ist bereits der Abschlussartikel und damit ist das Modul Bibliotheks- und Archivinformatik abgeschlossen. Hier gibt es noch eine Zusammenfassung des Moduls mit den bearbeiteten Inhalten. Desweiteren werde ich mich damit beschäftigen was ich gelernt (oder auch nicht gelernt) habe.
+Nun geht ein weiteres Semester zu Ende, dies ist bereits der Abschlussartikel und damit ist das Modul Bibliotheks- und Archivinformatik abgeschlossen. Hier gibt es noch eine Zusammenfassung des Moduls mit den bearbeiteten Inhalten. Desweiteren werde ich mich damit beschäftigen was ich gelernt (oder auch nicht gelernt) habe.
 
-Zu Beginn möchte ich nocheinmal auf die Grafik ganz am Anfang eingehen. Am Anfang habe ich noch sehr wenig verstanden und eher gedacht "Wieder einmal irgendeine Grafik mit Begriffen die ich nicht verstehe". Jetzt sieht es ganz anders aus, ich habe verstanden, dass sich das ganz Modul an diesem Bild orientiert. Angefangen mit Koha, der Bibliothekssoftware, mit ArchivesSpace, der Archivsoftware und mit DSpace, dem Repository.
+Zu Beginn möchte ich nocheinmal auf die Grafik ganz am Anfang eingehen. Am Anfang habe ich noch sehr wenig verstanden und eher gedacht "Wieder einmal irgendeine Grafik mit Begriffen die ich nicht verstehe und auch nicht so wichtig sein wird". Jetzt sieht es ganz anders aus, ich habe verstanden, dass sich das ganze Modul an dieser Grafik orientiert. Angefangen mit Koha, der Bibliothekssoftware, dann mit ArchivesSpace, der Archivsoftware und danach mit DSpace, dem Repository. Alle die gespeicherten Ressourcen haben Metadaten in unterschiedlichen Formaten. Über die Schnittstelle wie OAI-PMH können die Metadaten dieser Ressourcen geerntet werden.
 
 ![grafik](https://user-images.githubusercontent.com/90787818/151717412-3739fc51-caea-4b87-9a4b-e38f04903574.png)
 
-
-
+Allgemein fand ich es gut dass wir viele praktische Übungen machen konnten und viele Programme selber ausprobieren durften. Dadurch konnte die Theorie besser verknüpft werden, als wenn wir es nur gelesen bzw gehört hätten. Die Theorie an sich war zum Teil etwas komplex und ich musste mehrmals selber nochmals nachlesen. Dies brauchte viel Zeit zum Teil gab es natürlich Probleme bei Installationen, Konfigurationen etc die eher weniger schön waren, hier war ich froh um die Hilfe der Dozenten. Dadurch das alles ausser die erste Vorlesung Online war, war es sicherlich auch für die Dozenten schwierig remote allen zu helfen und es ist anders als wenn wir vor Ort wären. 
